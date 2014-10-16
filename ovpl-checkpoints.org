@@ -1,5 +1,5 @@
-+#Title: OVPL Checkpointing for Data Services
-+#Author: Prakash B Hegade
+#+Title: OVPL Checkpointing for Data Services
+#+Author: Prakash B Hegade
 
 Following are the checkpoints which seem to be appropriate to be logged for the data services. The classification is done with respect to the files.
 
