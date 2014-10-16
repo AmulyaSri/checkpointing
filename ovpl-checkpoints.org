@@ -10,8 +10,8 @@ Following are the checkpoints which seem to be appropriate to be logged for the 
 - adapter_port
 
 ** CentOSVZAdapter.py
-- id_address
-- am_spec
+- ip_address
+- lab_spec
 
 ** ControllerServer.py
 - config_spec
