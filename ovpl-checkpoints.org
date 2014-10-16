@@ -1,0 +1,36 @@
++#Title: OVPL Checkpointing for Data Services
++#Author: Prakash B Hegade
+
+Following are the checkpoints which seem to be appropriate to be logged for the data services. The classification is done with respect to the files.
+
+** AdapterServer.py
+- vm_id
+- the success / failure status of init_vm
+- adapter_name
+- adapter_port
+
+** CentOSVZAdapter.py
+- id_address
+- am_spec
+
+** ControllerServer.py
+- config_spec
+
+** Controller.py
+- lab_spec: lab_id, lab_src_url, revision_tag
+- lab_status
+- ip
+- vmmgrurl
+
+
+Whenever lab spec is updated
+- lab_id
+- lab_src_url
+- revision_tag
+
+Whenever a lab is updated
+- released_by
+- released_on
+
+When lab is undeployed
+- lab_id
