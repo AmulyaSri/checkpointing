@@ -2,3 +2,12 @@
 
 This directory hosts the following documents:
 
+** Python concepts for OVPL
+This document provides a description of python concepts used in OVPL coding.
+[[https://github.com/prakashbh/checkpointing/blob/master/understanding-python-for-ovpl.org][Understanding Python for OVPL]]
+
+** Code Clean-Up
+The OVPL code needs clean-up at following places: [[]][[OVPL Code Clean-Up]]
+
+** Checkpoints
+
