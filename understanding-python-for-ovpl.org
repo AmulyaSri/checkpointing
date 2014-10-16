@@ -1,10 +1,13 @@
-+Title: Understanding Python for OVPL
-+Author: Prakash B Hegade
+#+Title: Understanding Python for OVPL
+#+Author: Prakash B. Hegade
+#+Date: [2014-10-16 Thu]
 
 Before starting with code improvements / clean up on OVPL, it is advised to be familiar with following python concepts:
 
-** pass
-pass is a null operation -- when it is executed, nothing happens. It is useful as a placeholder when a statement is required syntactically, but no code needs to be executed
+* pass
+- "pass" is a null operation
+- when it is executed, nothing happens
+- It is useful as a placeholder when a statement is required syntactically, but no code needs to be executed
 
 understanding dict
 A mapping object maps hashable values to arbitrary objects. Mappings are mutable objects. There is currently only one standard mapping type, the dictionary.
