@@ -1,0 +1,18 @@
+#+Title: Timesheet
+#+Author: Prakash B. Hegade
+
+All the carried out tasks are committed in this directory "checkpointing".
+
+Start Date: 16 October 2014
+End Date: --
+Time Spent: 
+
+Detailed Split up
+|-------|------------|
+|Task   | Time Spent |
+|-------|
+
+Time Spent:  (in hours)
+Meeting, Planning: 01
+Documenting the Tasks: 02
+Usage of Dia Tool: 01
