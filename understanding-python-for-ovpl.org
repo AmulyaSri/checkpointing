@@ -57,4 +57,4 @@ Note that it lists all types of names: variables, modules, functions, etc.
 The raise statement allows the programmer to force a specified exception to occur
 
 ** self Variable
-It is no0t very easy to understand the concept of self variable in python. A good documentation can be found here: [[http://freepythontips.wordpress.com/2013/08/07/the-self-variable-in-python-explained/][self in python]]
+It is not very easy to understand the concept of self variable in python. A good documentation can be found here: [[http://freepythontips.wordpress.com/2013/08/07/the-self-variable-in-python-explained/][self variable in python]]
