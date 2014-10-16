@@ -1,0 +1,4 @@
+* INDEX
+
+This directory hosts the following documents:
+
