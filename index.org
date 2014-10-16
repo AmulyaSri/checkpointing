@@ -10,4 +10,9 @@ This document provides a description of python concepts used in OVPL coding.
 The OVPL code needs clean-up at following places: [[https://github.com/prakashbh/checkpointing/blob/master/code-clean-up.org][OVPL Code Clean-Up]]
 
 ** Checkpoints
+The checkpoints for dataservices are identified at following places:
+[[https://github.com/prakashbh/checkpointing/blob/master/ovpl-checkpoints.org][Checkpoints]]
+
+** Response time
+Response time is a measure to note the time take to deploy a lab on the machine. Time taken can be calculated using python from the following [[https://github.com/prakashbh/checkpointing/blob/master/calculate-time.py][CODE]].
 
