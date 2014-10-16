@@ -4,8 +4,10 @@
 All the carried out tasks are committed in this directory "checkpointing".
 
 Start Date: 16 October 2014
+
 End Date: --
-Time Spent: 
+
+Time Spent: 05 hours
 
 Detailed Split up:
 
