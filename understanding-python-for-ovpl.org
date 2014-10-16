@@ -16,8 +16,13 @@ Before starting with code improvements / clean up on OVPL, it is advised to be f
 
 Dictionaries can be created by placing a comma-separated list of key: value pairs within braces.
 
-For example: {'jack': 4098, 'sjoerd': 4127} or {4098: 'jack', 4127: 'sjoerd'}, or by the dict constructor.
-Example:
+For example:
+#+BEGIN_example
+{'jack': 4098, 'sjoerd': 4127} or {4098: 'jack', 4127: 'sjoerd'}, or by the dict constructor.
+#+END_example
+
+Likewise, usage of dict in various ways can be seen below:
+#+BEGIN_example
 >>> a = dict(one=1, two=2, three=3)
 >>> b = {'one': 1, 'two': 2, 'three': 3}
 >>> c = dict(zip(['one', 'two', 'three'], [1, 2, 3]))
@@ -25,24 +30,31 @@ Example:
 >>> e = dict({'three': 3, 'one': 1, 'two': 2})
 >>> a == b == c == d == e
 True
+#+END_example
+
+
+** dir()
 
 The built-in function dir() is used to find out which names a module defines. It returns a sorted list of strings.
+#+BEGIN_example
     >>> import fibo, sys
     >>> dir(fibo)
     ['__name__', 'fib', 'fib2']
-   
+#+END_example
+
 
 Without arguments, dir() lists the names you have defined currently:
-
+#+BEGIN_example
     >>> a = [1, 2, 3, 4, 5]
     >>> import fibo, sys
     >>> fib = fibo.fib
     >>> dir()
     ['__name__', 'a', 'fib', 'fibo', 'sys']
-
+#+END_example
 Note that it lists all types of names: variables, modules, functions, etc. 
 
+** raise
 The raise statement allows the programmer to force a specified exception to occur
 
-self variable explained in python:
-http://freepythontips.wordpress.com/2013/08/07/the-self-variable-in-python-explained/
+** self Variable
+It is no0t very easy to understand the concept of self variable in python. A good documentation can be found here: [[http://freepythontips.wordpress.com/2013/08/07/the-self-variable-in-python-explained/][self in python]]
