@@ -8,11 +8,14 @@ End Date: --
 Time Spent: 
 
 Detailed Split up
-|-------|------------|
-|Task   | Time Spent |
-|-------|
-
-Time Spent:  (in hours)
-Meeting, Planning: 01
-Documenting the Tasks: 02
-Usage of Dia Tool: 01
+|-----------------------------------------|-- ---------------|
+|Task                                     | Time Spent (hrs) |
+|-----------------------------------------|------------------|
+| Planning, Meeting, Discussions          |  01              |
+|-----------------------------------------|------------------|
+| Understanding required python basics    |  01              |
+|-----------------------------------------|------------------|
+| Identfying checkpoints                  |  01              |
+|-----------------------------------------|------------------|
+| Planning, Meeting, Discussions          |  01              |
+|-----------------------------------------|------------------|
