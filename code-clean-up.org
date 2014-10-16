@@ -1,0 +1,16 @@
+#+Title: Code Clean-Up (for OVPL)
+#+Author: Prakash B. Hegade 
+
+Objective:
+OVPL code needs clean up with respect to many perspectives. Below mentioned are few test conditions and redundancy eliminations.
+
+** AdapterServer.py
+- Exception to be added for adapter_name, options_port (adapter port), as they may not be avail in config_spec file when fetched.
+
+** CentOSVZAdapter.py
+- (As already stated in document)Not designed for concurrent use e.g. find_available_ip uses vzlist for finding available ip, but if a vm is in the process of being created, vzlist will probably not list it, resulting in duplicate ip address. These functionalities should be moved up to VMPool for enabling concurrency.
+- usage of success variable in init_vm is redundant and needs cleaning
+- exceptions to be handled for all the specs gathered in get_vm_spec()
+
+** ControllerServer.py
+- Automatically run the browser and show the test page for lab deployment rather than message pushed on console
