@@ -11,7 +11,7 @@ Following are the checkpoints which seem to be appropriate to be logged for the 
 
 ** CentOSVZAdapter.py
 - ip_address
-- lab_spec
+- vm_spec
 
 ** ControllerServer.py
 - config_spec
@@ -28,7 +28,7 @@ Whenever lab spec is updated
 - lab_src_url
 - revision_tag
 
-Whenever a lab is updated
+Whenever a lab state is updated
 - released_by
 - released_on
 
