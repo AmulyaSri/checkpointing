@@ -7,22 +7,22 @@ Start Date: 16 October 2014
 
 End Date: --
 
-Time Spent: 05 hours
+Time Spent:  hours
 
 Detailed Split up:
 
 |-----------------------------------------|------------------|
 |               Task                      | Time Spent (hrs) |
 |-----------------------------------------|------------------|
-| Planning, Meeting, Discussions          |        01        |
+| Planning, Meeting, Discussions          |        xx        |
 |-----------------------------------------|------------------|
-| Understanding required python basics    |        01        |
+| Understanding required python basics    |        xx        |
 |-----------------------------------------|------------------|
-| Identfying checkpoints                  |        01        |
+| Identfying checkpoints                  |        xx        |
 |-----------------------------------------|------------------|
-| Usage of Dia tool and diagrams          |        01        |
+| Code clean-up points                    |        xx        |
 |-----------------------------------------|------------------|
-| Documentation of process                |        01        |
+| Documentation of process                |        xx        |
 |-----------------------------------------|------------------|
-| Total Time spent                        |        05        |
+| Total Time spent                        |        xx        |
 |-----------------------------------------|------------------|
