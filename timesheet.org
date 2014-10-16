@@ -10,13 +10,17 @@ Time Spent:
 Detailed Split up:
 
 |-----------------------------------------|------------------|
-|Task                                     | Time Spent (hrs) |
+|               Task                      | Time Spent (hrs) |
 |-----------------------------------------|------------------|
-| Planning, Meeting, Discussions          |  01              |
+| Planning, Meeting, Discussions          |        01        |
 |-----------------------------------------|------------------|
-| Understanding required python basics    |  01              |
+| Understanding required python basics    |        01        |
 |-----------------------------------------|------------------|
-| Identfying checkpoints                  |  01              |
+| Identfying checkpoints                  |        01        |
 |-----------------------------------------|------------------|
-| Planning, Meeting, Discussions          |  01              |
+| Usage of Dia tool and diagrams          |        01        |
+|-----------------------------------------|------------------|
+| Documentation of process                |        01        |
+|-----------------------------------------|------------------|
+| Total Time spent                        |        05        |
 |-----------------------------------------|------------------|
